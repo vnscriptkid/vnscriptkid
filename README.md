@@ -66,6 +66,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vnscriptkid" alt="vnscriptkid" />
-  <img src="https://badges.pufler.dev/years/calvinchankf" alt="vnscriptkid" />
-  <img src="https://badges.pufler.dev/commits/monthly/calvinchankf" alt="vnscriptkid" />
+  <img src="https://badges.pufler.dev/years/vnscriptkid" alt="vnscriptkid" />
+  <img src="https://badges.pufler.dev/commits/monthly/vnscriptkid" alt="vnscriptkid" />
 </p>
