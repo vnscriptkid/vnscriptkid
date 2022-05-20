@@ -2,7 +2,8 @@
 <h3 align="center">Software Engineer from Vietnam </h3>
 
 - 👨🏻‍💻 I work at **TimeEdit**
-- ➕➖✖️➗ I'm interested in Data structure and Algorithms so I do it [everyday](https://github.com/vnscriptkid/Algorithms). Plus, I also build my own [Youtube Channel](https://www.youtube.com/channel/UCqjc2pnYJTBU_XOUsu7wz-w/featured) where I explain how to solve problems.
+- ➕➖✖️➗ I'm interested in Data structure and Algorithms so I do it [everyday](https://github.com/vnscriptkid/Algorithms). Plus, I also build my own [Youtube Channel](https://www.youtube.com/channel/UCqjc2pnYJTBU_XOUsu7wz-w/featured) where I explain how to solve problems. 
+- 🏗️ Recently, I have started a repo on how to build scalable systems in practice as I recognized there's too many theory discussions on these topics. Check it out here [Practical System Design](https://github.com/vnscriptkid/system-design-practice)
 - 🎮 Feel free to explore around my github, you might find out [something fun](https://github.com/vnscriptkid?tab=repositories)
 - 😉 Life is short, I am always looking for [new opportunities](https://www.linkedin.com/in/thanh-nguyen-800534160/)
 
